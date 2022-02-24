@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp_management/dao/UserDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/layout/footer.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp/management/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/Home.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp_management/entities/Employees.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp/management/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/assets/css/customCss.css</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp_management/dao/EmployeesDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp/management/helper/ConectionProvider.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp_management/entities/Message.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/assets/js/customJs.js</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/src/java/com/emp_management/entities/User.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/empManagement/web/layout/header.jsp</file>
+        </group>
+    </open-files>
+</project-private>
